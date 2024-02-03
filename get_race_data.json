@@ -1,0 +1,26 @@
+{
+    "players": [
+        {
+            "nickname": "PlayerA",
+            "rank_score": 4911,
+            "car_id": 567
+        },
+        {
+            "nickname": "PlayerB",
+            "rank_score": 9165,
+            "car_id": 299
+        }
+    ],
+    "cars": {
+        "299": {
+            "car_name": "BMW X6",
+            "plate_type": "usa_california",
+            "plate_data": "81KPA653"
+        },
+        "567": {
+            "car_name": "Acura NSX",
+            "plate_type": "ru",
+            "plate_data": "077AAA500"
+        }
+    }
+}
